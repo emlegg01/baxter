@@ -16,7 +16,7 @@ unset your_hostname
 #-----------------------------------------------------------------------------#
 # Note: If ROS_MASTER_URI, ROS_IP, or ROS_HOSTNAME environment variables were
 # previously set (typically in your .bashrc or .bash_profile), those settings
-# will be overwritten by any variables set here.
+# will be overwritten by any variables set here. ---
 
 # Specify Baxter's hostname
 baxter_hostname="baxter_hostname.local"

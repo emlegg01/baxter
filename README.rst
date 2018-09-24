@@ -1,6 +1,8 @@
 Baxter SDK
 ==============
 
+hi There 
+
 The Baxter SDK provides a platform for development of custom applications for the Baxter Research Robot
 
 This repository contains metapackages and files for installation/use of the Baxter SDK
